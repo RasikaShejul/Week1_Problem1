@@ -6,7 +6,7 @@ m2 = 200;
 k12 = 100;
 %% 
 h2r = 2*pi;
-tStop = 5;
+tStop = 10;
 Fs = 48000;
 dt=1/Fs;
 t = (0:dt:tStop)';
